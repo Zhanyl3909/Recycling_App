@@ -1,3 +1,5 @@
+# GreenCycle 
+
 ### Figma Design
 
 ![App Screenshot](/GreenCycle_res/figma.png)
